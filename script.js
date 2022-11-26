@@ -16,5 +16,9 @@ function add(){
     else if(count%2==0){
         newElement.style.backgroundColor='lime';
     }
+    else if(count===17){
+        newElement.style.backgroundColor='rgb(219,112,147)';
+        
+    }
    
 }
